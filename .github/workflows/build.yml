@@ -52,3 +52,4 @@ jobs:
       - name: Verify opt-in update notifications build
         shell: pwsh
         run: ./build.ps1 -Configuration Release -EnableUpdateNotifications
+# Ativar workflow apos importacao
